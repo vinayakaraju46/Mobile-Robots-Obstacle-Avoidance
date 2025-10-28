@@ -188,3 +188,5 @@ ros2 run <your_package_name> scan_analyzer
 - Implement recovery behaviors when blocked for extended durations.
 - Add visualization markers in RViz for debugging.
 
+![MR](https://github.com/user-attachments/assets/df2e8bdd-51c9-40f6-879e-d8fef7ef9d4b)
+
